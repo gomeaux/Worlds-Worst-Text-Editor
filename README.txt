@@ -6,3 +6,5 @@ This was made as a test to see what I could do. Pretty sure theres this
 bug that makes the vector of strings do something stupid and it crashes
 but I don't know what causes it or how to fix it. nor do i care.
 Anyways use this at your own risk. this thing is windows only btw.
+
+i also don't know how to use github and I log on once a month lmao
